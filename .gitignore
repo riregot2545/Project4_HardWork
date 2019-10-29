@@ -4,4 +4,4 @@ lib
 *.iml
 %*
 LongestNotRepSubstr*
-ZigZagConversionTest*
+ContainerWithWaterTest*
