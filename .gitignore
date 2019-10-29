@@ -3,5 +3,4 @@ target
 lib
 *.iml
 %*
-LongestNotRepSubstr*
-ContainerWithWaterTest*
+LongestNotRepSubstrTest*
